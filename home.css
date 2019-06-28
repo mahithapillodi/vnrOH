@@ -1,0 +1,56 @@
+.mu-logo-area h1 {
+    font-size: 4vw;
+    color: #fff;
+    margin: 10px 0 50px;
+}
+@media screen and (min-width: 900px) {
+    .mu-logo-area h1 {
+        font-size: 3vw;
+    }
+}
+.mu-hero-featured-content {
+    margin: 0 0 20px;
+}
+.mu-hero-featured-area h5{
+    margin: 30px 0 
+}
+.mu-logo {
+    width: 40%;
+    max-width: 600px;
+}
+.vnr-logo {
+    width: 20%;
+    max-width: 150px;
+}
+.collab-img {
+    width: 20%;
+    margin: 0 30px;
+}
+.mu-event-date-line {
+    color: #fff;
+    font-size: 2.8vw;
+}
+.title-img {
+    width: 70%;
+}
+.title-img img {
+    width: 100%;
+}
+h5{
+    color:#fff;
+}
+.mu-about-center {
+	display: inline;
+	float: center;
+	margin-top: 30px;
+	width: 100%;
+}
+p{
+    font-size:10px;
+}
+#mu-aboutvnr {
+	background-color: #fff;
+	display: inline;
+	float: center;
+	width: 100%;
+}
